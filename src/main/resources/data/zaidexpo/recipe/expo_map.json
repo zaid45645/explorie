@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "WPW",
+    "PCP",
+    "WPW"
+  ],
+  "key": {
+    "P": "zaidexpo:structure_map_fragments",
+    "W": "minecraft:oak_planks",
+    "C": [
+      "minecraft:compass"
+    ]
+  },
+  "result": {
+    "id": "zaidexpo:expo_map",
+    "count": 1
+  },
+  "show_notification": false
+}

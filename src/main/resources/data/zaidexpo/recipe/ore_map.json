@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "WPW",
+    "PCP",
+    "WPW"
+  ],
+  "key": {
+    "P": "zaidexpo:ore_map_fragments",
+    "W": "minecraft:cobblestone",
+    "C": [
+      "minecraft:compass"
+    ]
+  },
+  "result": {
+    "id": "zaidexpo:ore_map",
+    "count": 1
+  },
+  "show_notification": false
+}
